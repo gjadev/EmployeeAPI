@@ -15,3 +15,7 @@ Setup and run in IDE
 6) Run script for MockEmployees found in Scripts folder in EmployeeAPI.Data
 7) Run IIS Express in Visual Studio Professional
 8) Swagger page will launch and give information about the API endpoint configurations
+
+Next Steps
+1) Add Logging
+2) Add Error handling
